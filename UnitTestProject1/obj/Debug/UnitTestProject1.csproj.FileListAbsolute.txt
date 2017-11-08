@@ -1,0 +1,15 @@
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.abstractions.dll
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.runner.utility.desktop.dll
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.execution.desktop.dll
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.assert.dll
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.core.dll
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.assert.pdb
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.assert.xml
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.core.pdb
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.core.xml
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

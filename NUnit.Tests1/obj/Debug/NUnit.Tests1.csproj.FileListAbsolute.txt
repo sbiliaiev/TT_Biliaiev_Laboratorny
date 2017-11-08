@@ -1,0 +1,11 @@
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\obj\Debug\NUnit.Tests1.csproj.CoreCompileInputs.cache
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\bin\Debug\Lab_2.exe
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\bin\Debug\Lab_2.pdb
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\bin\Debug\Lab_2.exe.config
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+C:\dev\TT_Biliaiev_Laboratorny\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb

@@ -1,0 +1,7 @@
+C:\dev\TT_Biliaiev_Laboratorny\Lab_2\bin\Debug\Lab_2.exe.config
+C:\dev\TT_Biliaiev_Laboratorny\Lab_2\bin\Debug\Lab_2.exe
+C:\dev\TT_Biliaiev_Laboratorny\Lab_2\bin\Debug\Lab_2.pdb
+C:\dev\TT_Biliaiev_Laboratorny\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\dev\TT_Biliaiev_Laboratorny\Lab_2\obj\Debug\Lab_2.exe
+C:\dev\TT_Biliaiev_Laboratorny\Lab_2\obj\Debug\Lab_2.pdb
+C:\dev\TT_Biliaiev_Laboratorny\Lab_2\obj\Debug\Lab_2.csprojResolveAssemblyReference.cache
