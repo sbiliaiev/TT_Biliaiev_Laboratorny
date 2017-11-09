@@ -79,5 +79,34 @@ namespace NUnit.Tests1
             Assert.That(motor.Speed, Is.EqualTo(0));
             Assert.That(motor.CurrentDirection, Is.EqualTo(WayOfRotation.Stopped));
         }
+
+        /// <summary>
+        /// Variant 3
+        /// </summary> 
+        [Test]
+        public void TestString()
+        {
+            string s1 = "strasse";
+            string s2 = "straße";
+            Assert.IsTrue(s1.Equals(s2, StringComparison.InvariantCulture));
+        }
+
+        /// <summary>
+        /// Variant 5
+        /// </summary>
+        [Test]
+        public void TestParse()
+        {
+            int myInt;
+            string myString = "Some word";
+            if (int.TryParse(myString, out myInt))
+            {
+                myInt = int.Parse(myString);
+            }
+            else
+            {
+                myInt = 0;
+            }
+        }
     }
 }

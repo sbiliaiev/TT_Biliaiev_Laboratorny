@@ -13,3 +13,7 @@ C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.core.pdb
 C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\xunit.core.xml
 C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\Lab_2.exe
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\Lab_2.pdb
+C:\dev\TT_Biliaiev_Laboratorny\UnitTestProject1\bin\Debug\Lab_2.exe.config
